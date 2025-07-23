@@ -1,1 +1,1 @@
-This is readme  file
+This project files are just for learning purpose and solving dsa and other problems
